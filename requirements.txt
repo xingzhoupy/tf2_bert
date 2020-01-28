@@ -1,4 +1,4 @@
-tensorflow==1.14.0
+tensorflow==1.15.2
 bert_for_tf2==0.3.1
 numpy==1.16.4
 six==1.12.0
